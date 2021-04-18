@@ -1,0 +1,10 @@
+.login__form{
+    margin-top: 5vh;
+    text-align: center;
+    width: 30vw;
+    margin-left: 35vw; 
+}
+
+.login__form.FormControl{
+    margin-bottom: 10px;
+}

@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+  display: inline-block;
+  margin-left: 32vw;
+  color: rgb(71, 71, 190);
+  border: 3px solid rgb(71, 71, 190);
+  border-radius: 10px;
+  border-top: 30px solid white;
+  border-left: 3px solid red;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.admin__button{
+  text-align: right;
+  display: inline-block;
+  margin-left: 20vw;
+}
